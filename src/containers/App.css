@@ -1,0 +1,14 @@
+.header-title {
+    font-family: 'SEGA LOGO FONT', sans-serif;
+    font-size: 200;
+    color: #0ccac4;                                                
+}
+
+.scroll {
+    overflow: scroll;
+    height: 800px;
+}
+
+.card {
+    margin: 10px;
+}
