@@ -4,7 +4,7 @@ body{
   font-family: sans-serif;
   background: linear-gradient(to top, #e83b81 0%, #1a8da6  100%);
   background-repeat: no-repeat;
-  height: 100vh;
+  min-height: 100vh;
 }
 svg{
   width: 100px;
